@@ -16,6 +16,32 @@ body {
      padding: 20px;
 }
 
+img .thumbnail {
+     width: 50px;
+     height:: 100px;
+     border: 1px solid #434343;
+}
+
+body, h1 {
+     font-family: Arial;
+}
+
+a:link {
+     color: green;
+}
+
+.contact-info{
+     font-size: 10pt;
+     color: #cccccc;
+}
+
+.project {
+     width: 520px;
+     padding: 20px;
+     background-color: #f8f8f8;
+     margin-left: 20px;
+}
+
 .jumbotron {
 	position: relative;
 	background: none;
